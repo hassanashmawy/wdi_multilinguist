@@ -3,3 +3,6 @@
 *.swn
 *.swo
 .DS_STORE
+Untitled*
+.vscode*
+.vscode\*
